@@ -53,14 +53,17 @@ https://www.arduino.cc/
 
 #### 视频
 
+- [3D打印机](https://www.youtube.com/watch?v=63Ei-H2gQ48)
+- [led咖啡桌](https://www.youtube.com/watch?v=L3l-zJafOnc)
+- [有趣的箱子](https://www.youtube.com/watch?v=cpdjQ0gheDQ)
 - [Tutorial Series for Arduino](https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84)
 - [Top 10 Best Arduino Projects](https://www.youtube.com/watch?v=VkSdMsZjDZY)
 - [Arduino Robotics Tutorial for Beginners](https://www.youtube.com/watch?v=-Jsvg6u9CYI)
 
 #### 参考项目链接
 
+- [画图机器人Polargraph](http://www.instructables.com/id/Polargraph-Drawing-Machine/?ALLSTEPS）
 - [nokia snake game with arduino](https://create.arduino.cc/projecthub/circuito-io-team/retro-nokia-snake-game-with-arduino-f8163b?ref=similar&ref_id=19700&offset=1)
-
 - [arduino web based mp3 player](https://create.arduino.cc/projecthub/khanhhs/arduino-web-based-mp3-player-9bc616?ref=similar&ref_id=43623&offset=2)
 
 #### 参考网站
